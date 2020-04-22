@@ -3,12 +3,6 @@
 -> get_source: 把源码从仓库上拉下来，并且上传了附件
 
 
-
-
-
-
-
-
 README:
   This file should be located at the top of the OpenJDK Mercurial root
   repository. A full OpenJDK repository set (forest) should also include
